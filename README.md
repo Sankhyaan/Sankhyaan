@@ -1,7 +1,8 @@
 # 💫 About Me:
-I'm a Computer Science student at Shiv Nadar University with an interest in **AI/ML, Generative AI, and software development**. I enjoy building practical projects and exploring new technologies.
+I'm a Computer Science student at **Shiv Nadar University** with a strong interest in **Artificial Intelligence, Machine Learning, Generative AI, and software development**. I enjoy turning ideas into practical projects and exploring how modern technologies can be used to solve real-world problems.
 
-Currently, I'm working with **LLMs, RAG, AI agents, and automation**, while strengthening my skills in **DSA, OOP, and problem solving**. I’m always open to learning, building, and collaborating on interesting projects.
+I'm currently exploring **LLMs, RAG systems, AI agents, multimodal AI, and intelligent automation**, while continuously strengthening my foundations in **Data Structures & Algorithms, Object-Oriented Programming, and system design**. I enjoy learning by building and experimenting with new technologies, and I'm always interested in collaborating on challenging projects that provide opportunities to learn and create something meaningful.
+
 <br>
 
 
